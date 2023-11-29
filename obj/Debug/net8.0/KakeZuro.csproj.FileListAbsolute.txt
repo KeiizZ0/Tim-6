@@ -1,0 +1,14 @@
+C:\Users\keiizz0\Desktop\KakeZuro\bin\Debug\net8.0\KakeZuro.exe
+C:\Users\keiizz0\Desktop\KakeZuro\bin\Debug\net8.0\KakeZuro.deps.json
+C:\Users\keiizz0\Desktop\KakeZuro\bin\Debug\net8.0\KakeZuro.runtimeconfig.json
+C:\Users\keiizz0\Desktop\KakeZuro\bin\Debug\net8.0\KakeZuro.dll
+C:\Users\keiizz0\Desktop\KakeZuro\bin\Debug\net8.0\KakeZuro.pdb
+C:\Users\keiizz0\Desktop\KakeZuro\obj\Debug\net8.0\KakeZuro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keiizz0\Desktop\KakeZuro\obj\Debug\net8.0\KakeZuro.AssemblyInfoInputs.cache
+C:\Users\keiizz0\Desktop\KakeZuro\obj\Debug\net8.0\KakeZuro.AssemblyInfo.cs
+C:\Users\keiizz0\Desktop\KakeZuro\obj\Debug\net8.0\KakeZuro.csproj.CoreCompileInputs.cache
+C:\Users\keiizz0\Desktop\KakeZuro\obj\Debug\net8.0\KakeZuro.dll
+C:\Users\keiizz0\Desktop\KakeZuro\obj\Debug\net8.0\refint\KakeZuro.dll
+C:\Users\keiizz0\Desktop\KakeZuro\obj\Debug\net8.0\KakeZuro.pdb
+C:\Users\keiizz0\Desktop\KakeZuro\obj\Debug\net8.0\KakeZuro.genruntimeconfig.cache
+C:\Users\keiizz0\Desktop\KakeZuro\obj\Debug\net8.0\ref\KakeZuro.dll
